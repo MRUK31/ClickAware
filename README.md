@@ -92,7 +92,7 @@ Train the model and test URL classification.
 
 ---
 
-###🔍 URL Prediction Example
+## 🔍 URL Prediction Example
 The user can input a URL, and the system outputs:
 Predicted Category (Benign / Phishing / Malware / Defacement)
 Safety Status (Safe / Unsafe)
@@ -104,7 +104,7 @@ URL Safety: Unsafe
 
 ---
 
-###📊 Output
+## 📊 Output
 
 1. Accuracy score of the model
 2. Confusion matrix visualization
